@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35017.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTSPlugin", "OTSPlugin\OTSPlugin.csproj", "{B20EA203-B35E-4752-83C1-8CACE7C7B901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B20EA203-B35E-4752-83C1-8CACE7C7B901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20EA203-B35E-4752-83C1-8CACE7C7B901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20EA203-B35E-4752-83C1-8CACE7C7B901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20EA203-B35E-4752-83C1-8CACE7C7B901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D3AB039-7E73-4C9F-B1DA-DEA2BD2530F6}
+	EndGlobalSection
+EndGlobal
